@@ -1,8 +1,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saikiran-pujari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-pujari&layout=compact&theme=tokyonight&border_radius=12" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saikiran-pujari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-pujari&layout=compact&theme=tokyonight&count_private=true&border_radius=12" height="180em" />
 </div>
 
 ## 🔥 Streak Stats
